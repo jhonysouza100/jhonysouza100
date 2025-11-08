@@ -63,7 +63,7 @@
 
 <div align="center">
 <h2>Stats</h2>
-<a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jhonysouza100&layout=compact&theme=dark&langs_count=14&range=all_time"  width="100%" alt="@Goblin's wakatime stats"/></a>
+<a href="https://wakatime.com/@jhonysouza100"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jhonysouza100&layout=compact&theme=dark&langs_count=14&range=all_time"  width="100%" alt="@Goblin's wakatime stats"/></a>
 </div>
 
 ## My personal values ​​and work ethic.
