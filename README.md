@@ -15,8 +15,6 @@
     <a href="https://www.linkedin.com/in/jhonatan-leon-souza-meza/" target="_blank">
     <img width="25" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/linkedin-circle.png">
     </a>
-    <img width="25" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/instagram-circle.png">
-    </a>
     <a href="https://wa.me/543757501633?text=Hola%20Jhoni,%20como%20estas?" target="_blank">
     <img width="25" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/whatsapp-circle.png">
     </a>
