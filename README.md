@@ -42,8 +42,7 @@ I enjoy transforming ideas into professional digital products with a strong visu
 
 ---
 
-<img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonysouza100&langs_count=10&layout=compact&theme=dark">
-<h3 align="center">Stack</h3>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jhonysouza100&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![jscript](./icons/javascript.svg)  ![typescript](./icons/typescript.svg) 
 
