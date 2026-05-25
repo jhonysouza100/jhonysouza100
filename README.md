@@ -22,15 +22,9 @@
 
 ## 🚀 About Me
 
-Full Stack Web Developer with 3+ years of experience. Focused on build modern digital experiences that combine strong branding, clean UI/UX, responsive design, performance optimization, and business-oriented structure.
+Web developer with over 3 years of experience creating modern experiences focused on sales, branding, and automation. Specializing in landing pages, e-commerce, responsive interfaces, and visual solutions for real businesses. Combines frontend development, UI/UX design, and digital marketing to create functional, fast, and visually appealing projects.
 
 Experience with self-hosting, deployment environments, and performance optimization.
-
-Passionate about minimalist UI, fast-loading interfaces, and creative web systems.
-
-Interested in branding, visual identity, interactive design, and real business solutions.
-
-My goal is to build impactful digital products that combine aesthetics, functionality, and business growth.
 
 My work is mainly focused on:
 
