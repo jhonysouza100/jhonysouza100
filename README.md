@@ -22,19 +22,21 @@
 
 ## 🚀 About Me
 
-Web developer with over 3 years of experience creating modern experiences focused on sales, branding, and automation. Specializing in landing pages, e-commerce, responsive interfaces, and visual solutions for real businesses. Combines frontend development, UI/UX design, and digital marketing to create functional, fast, and visually appealing projects.
+Web developer with over 3 years of experience creating modern experiences focused on sales, branding, and SEO. Specializing in landing pages, e-commerce, responsive interfaces, and visual solutions for real businesses. Combines frontend development, UI/UX design, and backend development to create functional, fast, and visually appealing projects.
 
 Experience with self-hosting, deployment environments, and performance optimization.
 
 My work is mainly focused on:
 
-- Landing pages
-- E-commerce websites
+- Modern landing pages
 - Product showcase pages
-- Marketing websites
-- Interactive interfaces
-- Contact & automation systems
-- Visual-first digital experiences
+- E-commerce websites
+- Payment platform integration
+- Customized interactive interfaces
+- Contact and inventory management systems
+- API development
+- Conversion and sales-oriented projects
+- Digital experiences with a strong visual component
 
 I enjoy transforming ideas into professional digital products with a strong visual identity and intuitive user experience.
 
