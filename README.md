@@ -59,13 +59,13 @@ I enjoy transforming ideas into professional digital products with a strong visu
 | ![html](./icons/html5.svg) ![markdown](./icons/markdown.svg) ![docusaurus](./icons/docusaurus.svg) | ![rest](./icons/rest.svg) ![restapi](./icons/motion/restapi.svg) ![weather](./icons/open-weather.svg) ![twilio](./icons/twilio.svg) | ![puppeteer](./icons/puppeteer.svg) ![postman](./icons/postman.svg) ![xampp](./icons/xampp.svg) ![jest](./icons/motion/jest.svg) ![scrum](./icons/scrum.svg) |
 
 <div align="center">
-<h2>Estadísticas</h2>
-<a href="https://wakatime.com/@jhonysouza100"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jhonysouza100&layout=compact&theme=dark&langs_count=14&range=all_time" width="100%" alt="Estadísticas Wakatime"/></a>
+<h2>Wakatime Stats</h2>
+<a target="_blank" href="https://wakatime.com/@jhonysouza100"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jhonysouza100&layout=compact&theme=dark&langs_count=14&range=all_time" width="100%" alt="Estadísticas Wakatime"/></a>
 </div>
 
 <div align="center">
-	<h2>Certificaciones</h2>
-	<a href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design" alt="certification"><img src="https://github.com/jhonysouza100/road-to-hero/blob/main/1%20Responsive%20Web%20Design/9%20Responsive%20Web%20Design%20Certification.jpg" alt="#" width="350" height="250"/></a>
-	<a href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures" alt="certification"><img src="https://github.com/jhonysouza100/road-to-hero/blob/main/2%20JavaScript%20Algorithms%20and%20Data%20Structures/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification.jpg" alt="#" width="350" height="250"/></a>
-	<a href="https://www.freecodecamp.org/certification/JhonySouza/front-end-development-libraries" alt="certification"><img src="https://github.com/jhonysouza100/road-to-hero/blob/main/3%20Front%20End%20Development%20Libraries/03_frontend-library-certification-projects/frontend-development-libraries-certification.jpg" alt="#" width="350" height="250"/></a>
+	<h2>Certifications</h2>
+	<a target="_blank" href="https://www.freecodecamp.org/certification/JhonySouza/responsive-web-design" alt="certification"><img src="https://github.com/jhonysouza100/road-to-hero/blob/main/1%20Responsive%20Web%20Design/9%20Responsive%20Web%20Design%20Certification.jpg" alt="#" width="350" height="250"/></a>
+	<a target="_blank" href="https://www.freecodecamp.org/certification/JhonySouza/javascript-algorithms-and-data-structures" alt="certification"><img src="https://github.com/jhonysouza100/road-to-hero/blob/main/2%20JavaScript%20Algorithms%20and%20Data%20Structures/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification.jpg" alt="#" width="350" height="250"/></a>
+	<a target="_blank" href="https://www.freecodecamp.org/certification/JhonySouza/front-end-development-libraries" alt="certification"><img src="https://github.com/jhonysouza100/road-to-hero/blob/main/3%20Front%20End%20Development%20Libraries/03_frontend-library-certification-projects/frontend-development-libraries-certification.jpg" alt="#" width="350" height="250"/></a>
 </div>
