@@ -60,7 +60,7 @@ I enjoy transforming ideas into professional digital products with a strong visu
 
 <div align="center">
 <h2>Wakatime Stats</h2>
-<a target="_blank" href="https://wakatime.com/@jhonysouza100"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jhonysouza100&layout=compact&theme=dark&langs_count=14&range=all_time" width="100%" alt="Estadísticas Wakatime"/></a>
+<a target="_blank" href="[https://wakatime.com/@jhonysouza100"><img src="https://wakatime.com/share/@jhonysouza100/4203452d-123d-462c-9d89-ce25359fd5c8.svg" width="100%" alt="Estadísticas Wakatime"/></a>
 </div>
 
 <div align="center">
